@@ -1,4 +1,4 @@
-<h1 aling="center"> Welcome to MyProfile Github </h1>
+<h1 aling="center">Welcome to MyProfile Github</h1>
 
 <h3 align="center">Vtuber Developer From Thailand</h3>
 
