@@ -1,7 +1,7 @@
 # <p align="center">Welcome to MyProfile</p>
 ### <p align="center">Junior Developer From Thailand</p>
 
-<p align="center"> <img src="https://count.getloli.com/get/@RetsuKama?theme=moebooru" alt="RetsuKama" score="2006"/> </p>
+<p align="center"> <img src="https://count.getloli.com/get/@RetsuKama?theme=moebooru" alt="RetsuKama" count="2006"/> </p>
 <p align="center">
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Retsu&show_icons=true&count_private=true&theme=dracula" />
 
