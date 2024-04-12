@@ -1,4 +1,4 @@
-![image](https://github.com/RetsuKama/Profile/assets/90997404/e9292b4d-41b6-4959-9c19-5f7b99a8dea2)# <p align="center">Welcome to MyProfile</p>
+# <p align="center">Welcome to MyProfile</p>
 ### <p align="center">Junior Developer From Thailand</p>
 
 <p align="center"> <img src="https://media.discordapp.net/attachments/985590743521452135/1228244896784322601/image.png?ex=662b5733&is=6618e233&hm=7f3f553cfa7b70e5530d68a6788d8d21f1052ca8b1f36db40690adc16694f41f&=&format=webp&quality=lossless"> </p>
